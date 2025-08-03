@@ -85,7 +85,7 @@ function create() {
     this.physics.pause();
     player.setTint(0xff0000);
     gameOver = true;
-    gameOverText.setText("Got nutted");
+    gameOverText.setText("Nutcracked!");
   });
 }
 
